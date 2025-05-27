@@ -23,5 +23,5 @@ Thumbs.db
 
 config-files
 config-service
-.yml
+*.yml
 
