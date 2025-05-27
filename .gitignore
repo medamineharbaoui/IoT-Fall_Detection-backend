@@ -1,0 +1,27 @@
+# === Maven Build ===
+**/target/
+**/logs/
+*.log
+
+# === IDEs (VS Code / IntelliJ) ===
+.vscode/
+.idea/
+*.iml
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Compiled Java Files ===
+*.class
+
+# === Environment or secrets ===
+.env
+*.db
+*.h2.db
+
+
+config-files
+config-service
+.yml
+
