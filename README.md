@@ -92,7 +92,7 @@ The embedded code (`main.c++`) performs the following:
 - **Time Window**: 2000 ms (time frame for distance change).
 - **Height Threshold**: 250 cm (maximum distance for fall detection).
 
-## Link for Frontend Repository
+## Link to the Frontend Repository
    ```bash
    
    https://github.com/medamineharbaoui/Data_Visualisation-IoT_Sytem-frontend.git
