@@ -92,11 +92,18 @@ The embedded code (`main.c++`) performs the following:
 - **Time Window**: 2000 ms (time frame for distance change).
 - **Height Threshold**: 250 cm (maximum distance for fall detection).
 
+## Link for Frontend Repository
+   ```bash
+   
+   https://github.com/medamineharbaoui/Data_Visualisation-IoT_Sytem-frontend.git
+   
+   ```
+
 ## Backend Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <backend-repository-url>
-   cd <backend-directory>
+   git clone https://github.com/medamineharbaoui/IoT-Fall_Detection-backend.git
+   cd IoT-Fall_Detection-backend
    ```
 
 2. **Install Dependencies**:
